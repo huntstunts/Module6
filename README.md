@@ -1,1 +1,2 @@
 # Module6
+The goal of this assignment was to keep track of the rent and pricing of homes per square foot for San Francisco over the course of 6 years. It involved grouping the info into different dataframes, whether by year or neighborhood, and also charting the data for visual examples. The steps involved in this process makes it easier to see not only what the best neighborhood is to live in financially, but also to predict future outcomes for potential investors.
